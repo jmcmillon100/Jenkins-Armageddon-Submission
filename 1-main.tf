@@ -73,9 +73,9 @@ resource "aws_s3_object" "armageddon_readme" {
 
 resource "aws_s3_object" "theos_blessing" {
   bucket       = aws_s3_bucket.jenkins_armageddon_submission_bucket.id
-  key          = "theos_blessing.png"
-  source       = "${path.module}/images/theos_blessing.png"
+  key          = "Theos_Blessing.png"
+  source       = "${path.module}/images/Theos_Blessing.png"
   content_type = "image/png"
 
-  etag = filemd5("${path.module}/images/theos_blessing.png")
+  etag = filemd5("${path.module}/images/Theos_Blessing.png")
 }
