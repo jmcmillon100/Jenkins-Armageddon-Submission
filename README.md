@@ -33,3 +33,18 @@ The [0.More_information](./0.More_information) file contains, the [Armageddon_re
 - Armageddon repo link: [Armageddon repo](./0.More_information/armageddon_repo_link.md)
 
 ---
+## Evidence Files
+
+All evidence files are hosted in a publicly accessible S3 bucket.
+
+deliverables_bucket = "class-7-gutcheck-20260329032009227600000001"
+
+readme_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md">
+
+stage_view_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/03-stage-view.png">      
+
+tf_success_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/02-terraform-success.png">
+
+theo_approval_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/04-theo-approval.png"> 
+
+webhook_trigger_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.png">
