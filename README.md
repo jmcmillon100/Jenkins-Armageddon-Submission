@@ -9,7 +9,7 @@ The [images](./images/) folder contains images with proof of:
 - text file/markdown/picture: Armageddon repo link
 - all text/image files uploaded in s3 bucket
 
-The [More_information](./More_information) file contains, the [Armageddon_repo](./More_information/Armageddon_repo.md) file.
+The [More_information](./More_information) file contains, the [armageddon_repo_link](./More_information/armageddon_repo_link.md) file.
 
 ### Proofs:
 
@@ -23,7 +23,7 @@ The [More_information](./More_information) file contains, the [Armageddon_repo](
 
 ---
 
-- screenshot: theo's approval of Armageddon submission
+- screenshot: Theo's approval of Armageddon submission
 
 ![Theos_Blessing.png](images/Theos_Blessing.png)
 
