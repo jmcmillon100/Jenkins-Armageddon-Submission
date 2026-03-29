@@ -40,5 +40,5 @@ All evidence files are hosted in a publicly accessible S3 bucket.
 - Deliverables bucket: `jenkins-armageddon-submission-bucket`
 - README: [armageddon.md](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md)
 - Terraform success screenshot: [Jenkins_Pipeline1.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Jenkins_Pipeline1.png)
-- Theo Blessing screenshot: [Theos_Blessing.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Theos_Blessing.png)
+- Theo Blessing screenshot: [theos_blessing.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Theos_Blessing.png)
 - Webhook trigger screenshot: [Webhook_Delivery.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.png)
