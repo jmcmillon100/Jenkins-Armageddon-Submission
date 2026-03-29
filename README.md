@@ -37,12 +37,8 @@ The [More_information](./More_information) file contains, the [armageddon_repo_l
 
 All evidence files are hosted in a publicly accessible S3 bucket.
 
-deliverables_bucket = "jenkins-armageddon-submission-bucket"
-
-readme_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md">    
-
-tf_success_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Jenkins_Pipeline1.png">
-
-theo_approval_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/theos_blessing.png"> 
-
-webhook_trigger_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.pn">
+- Deliverables bucket: `jenkins-armageddon-submission-bucket`
+- README: [armageddon.md](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md)
+- Terraform success screenshot: [Jenkins_Pipeline1.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Jenkins_Pipeline1.png)
+- Theo Blessing screenshot: [Theos_Blessing.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Theos_Blessing.png)
+- Webhook trigger screenshot: [Webhook_Delivery.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.png)
