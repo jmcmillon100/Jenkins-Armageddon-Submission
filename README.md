@@ -48,3 +48,4 @@ All evidence files are hosted in a publicly accessible S3 bucket.
 - Terraform success screenshot: [Jenkins_Pipeline1.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Jenkins_Pipeline1.png)
 - Theo Blessing screenshot: [theos_blessing.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Theos_Blessing.png)
 - Webhook trigger screenshot: [Webhook_Delivery.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.png)
+- S3 Bucket objects screenshot: [S3Bucket_Objects.png](https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/S3Bucket_Objects.png)
