@@ -39,12 +39,10 @@ All evidence files are hosted in a publicly accessible S3 bucket.
 
 deliverables_bucket = "jenkins-armageddon-submission-bucket"
 
-readme_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md">
+readme_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md">    
 
-stage_view_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/03-stage-view.png">      
+tf_success_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Jenkins_Pipeline1.png">
 
-tf_success_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/02-terraform-success.png">
+theo_approval_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/theos_blessing.png"> 
 
-theo_approval_url = <"https://class-7-gutcheck-20260329032009227600000001.s3.us-east-1.amazonaws.com/screenshots/04-theo-approval.png"> 
-
-webhook_trigger_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.png">
+webhook_trigger_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/Webhook_Delivery.pn">
