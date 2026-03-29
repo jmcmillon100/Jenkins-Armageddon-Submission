@@ -24,6 +24,11 @@ variable "s3-objects" {
       source       = "./images/Jenkins_Pipeline1.png"
       content_type = "image/png"
     }
+    "S3Bucket_Objects" = {
+      key          = "images/S3Bucket_Objects.png"
+      source       = "./images/S3Bucket_Objects.png"
+      content_type = "image/png"
+    }
     "Jenkins_Full_Pipeline" = {
       key          = "images/Jenkins_Full_Pipeline.png"
       source       = "./images/Jenkins_Full_Pipeline.png"
