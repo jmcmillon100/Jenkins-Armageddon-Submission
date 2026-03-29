@@ -5,7 +5,7 @@ This simple excersise that illustrated the possible integration between Jenkins 
 The [images](./images/) folder contains images with proof of:
 - screenshot: working webhook trigger (empty or otherwise)
 - screenshot: successful TF deployment via jenkins
-- screenshot: theo's approval of Armageddon submission
+- screenshot: theo's blessing of Armageddon submission
 - text file/markdown/picture: Armageddon repo link
 - all text/image files uploaded in s3 bucket
 
@@ -30,7 +30,7 @@ The [0.More_information](./0.More_information) file contains, the [Armageddon_re
 ---
 ---
 
-- Armageddon repo link: [Armageddon repo](./0.More_information/armageddon_repo_link.md)
+- Armageddon repo link: [Armageddon repo](./More_information/armageddon_repo_link.md)
 
 ---
 ## Evidence Files
