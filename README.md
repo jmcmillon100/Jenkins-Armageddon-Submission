@@ -37,7 +37,7 @@ The [0.More_information](./0.More_information) file contains, the [Armageddon_re
 
 All evidence files are hosted in a publicly accessible S3 bucket.
 
-deliverables_bucket = "class-7-gutcheck-20260329032009227600000001"
+deliverables_bucket = "jenkins-armageddon-submission-bucket"
 
 readme_url = <"https://jenkins-armageddon-submission-bucket.s3.amazonaws.com/armageddon.md">
 
