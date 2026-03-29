@@ -22,3 +22,8 @@ output "armageddon_readme_url" {
 output "theos_blessing_url" {
   value = "https://${aws_s3_bucket.jenkins_armageddon_submission_bucket.bucket_domain_name}/${aws_s3_object.theos_blessing.key}"
 }
+
+output "s3bucket_objects_url" {
+  description = "S3 Bucket Objects screenshot URL"
+  value       = "https://${aws_s3_bucket.jenkins_armageddon_submission_bucket.bucket_domain_name}/${aws_s3_object.s3bucket_objects.key}"
+}

@@ -32,6 +32,12 @@ The [More_information](./More_information) file contains, the [armageddon_repo_l
 
 - Armageddon repo link: [Armageddon repo](./More_information/armageddon_repo_link.md)
 
+- screenshot: Objects in S3 Bucket
+
+![S3Bucket_Objects.png](images/S3Bucket_Objects.png)
+
+---
+
 ---
 ## Evidence Files
 

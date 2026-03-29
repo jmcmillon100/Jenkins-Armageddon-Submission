@@ -79,3 +79,11 @@ resource "aws_s3_object" "theos_blessing" {
 
   etag = filemd5("${path.module}/images/Theos_Blessing.png")
 }
+resource "aws_s3_object" "s3bucket_objects" {
+  bucket       = aws_s3_bucket.jenkins_armageddon_submission_bucket.id
+  key          = "S3Bucket_Objects.png"
+  source       = "${path.module}/images/S3Bucket_Objects.png"
+  content_type = "image/png"
+
+  etag = filemd5("${path.module}/images/S3Bucket_Objects.png")
+}
